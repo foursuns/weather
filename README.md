@@ -6,4 +6,5 @@ Projeto Web para consultar a previsão do tempo para surf via API
  * yarn add -D @types/node
  * yarn add module-alias
  * yarn add -D @types/module-alias
+ * yarn add -D @typescript-eslint/eslint-plugin eslint @typescript-eslint/parser
   
